@@ -1,0 +1,23 @@
+
+div{
+    width: 70%;
+    margin: auto;
+    background-color: rgb(158, 158, 158);
+    margin-top: 250 px;
+    margin-bottom: 250px;
+}
+a{
+    font-size: 20pt;
+    text-decoration: none;
+    color: skyblue
+}
+h1{
+    color: rgb(198, 98, 10);
+    font-size: 50px;
+}
+p{
+    color: rgb(38, 79, 146);
+    font-size: 40px;
+    font-weight :10000000000000pt;
+    font-family: 'Anton';
+}
