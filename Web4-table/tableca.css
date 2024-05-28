@@ -1,0 +1,55 @@
+body{
+    font-family: Arial;
+    background-color: rgb(195, 195, 255);
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+table{
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid hsl(0, 77%, 65%);
+    padding: 10px;
+    text-align: left;
+}
+th{
+    background-color: black;
+    color: #fff;
+    text-align: center;
+}
+tr:nth-child(even){
+    background-color: rgb(195, 195, 255);
+}
+tr:hover{
+    background-color: rgb(155, 155, 241);
+}
+.link{
+    text-align: center;
+
+    padding-bottom: 0px;
+}
+a{
+    text-decoration: none;
+    color: rgb(200, 0, 255);
+}
+a:hover {
+    color: rgb(255,0,0);
+}
+#NOGI_KOWAKA{
+    background-color: rgb(10, 14, 18);
+    color: aliceblue;
+    text-align: center;
+    padding: 10px 20px;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
