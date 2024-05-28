@@ -1,0 +1,106 @@
+.div_top{
+    height: auto;
+    background-color: rgb(50, 53, 53);
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.div_top_text{
+    background-color: darkcyan;
+    font-size:  25px;
+    text-align: center;
+}
+.TopNav{
+    font-family: 'Caveat', cursive;
+    background-color: rgb(41, 42, 42);
+    font-size: 20px;
+    display: flex;
+    width: 75%;
+    justify-content: space-between;
+    -ms-flex-item-align: center;
+    align-items: center;
+}
+.div_nav{
+    /* position: absolute; */
+    height: 50px;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    padding: 0px 100px;
+    height: 100%;
+    -ms-flex-items-aliign: center;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav_link{
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+    font-size: 20px;
+}
+.logo{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 0px 50px;
+}
+img{
+    width: 100px;
+    height: 80px;
+    display: block;
+}
+.poisc{
+    margin: 20px;
+
+}
+.search{
+    background-image: url(/pro_three_sait/faily/poisc.png);
+    background-position: 0px center;
+    background-repeat: no-repeat;
+    -webkit-background-size: 13px 13px;
+    background-size: 13px 13px;
+    font-size: 20px;
+    padding: 5px;
+    outline: none;
+}
+body{
+    background-image: url(/pro_three_sait/faily/back.png);
+}
+.text{
+    /* margin: 10px 100px 0 100px; */
+    text-indent: 50px;
+    padding: 10px;
+    width: auto;
+    height: auto;
+}
+.rubik{
+    display: block;
+    width: auto;
+    height: auto;
+}
+.div{
+    background-color: aliceblue;
+    padding: 10px;
+    margin: 10px 100px 0 100px;
+    display: block;
+    height: auto;
+    width: auto;
+}
+.top{
+    display: flex;
+}
+.rubik{
+    height: 200px;
+    width: 400px;
+}
+.zagolovok{
+    font-size: 30px;
+    font-family:'Yanone Kaffeesatz' sans-serif;
+    text-indent: 40px;
+    margin-left: 5px;
+}
+.div_osnova{
+    float: left;
+}
