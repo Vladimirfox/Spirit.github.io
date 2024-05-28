@@ -1,0 +1,13 @@
+p{
+    font-family: "Rubik Doodle Shadow", system-ui;
+    font-size:30px ;
+    color: rgb(255, 255, 255);
+}
+body{
+    background-color: rgb(37, 36, 36);
+    text-align: center;
+}
+h1{
+    font-size: 30px;
+    color: rgb(65, 65, 65);
+}
