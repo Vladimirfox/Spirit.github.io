@@ -1,0 +1,96 @@
+
+/* сбросить все отступы */
+*{
+    margin: 0;
+    padding: 0;
+}
+#kot_boris{
+    background-color: black;
+    color: aquamarine;
+    padding: 20px;
+    margin: 0px;
+}
+#kot_boris{
+    padding: 0px 0px 0px 10px;
+}
+.nav-link {
+    color: aliceblue;
+    padding: 5px 10px;
+}
+#NOGI_KOWAKA{
+    background-color: rgb(10, 14, 18);
+    color: aliceblue;
+    text-align: center;
+    padding: 10px 20px;
+}
+a {
+    /*не по центру*/
+    text-align: center;
+    color:black 
+}
+video{
+    width: 80%;
+    height: 100%;
+}
+img{
+    width:1200px;
+    height:400px;
+    margin-right: 20px;
+}
+
+@media screen and (max-width: 600px){
+    video{
+        width: 80%;
+    }
+    img{
+        width: 80%;
+    }
+    p{
+        color: rgb(140, 140, 140);
+    }
+}
+.content{
+    margin: 0px 120px 0px 120px;
+    padding: 10px 20px 10px 20px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(140, 140, 140);
+}
+.nazv{
+    text-align: center;
+    padding: 20px 0px 20px px;
+}
+a{
+    font-family: "Amatic SC", sans-serif;
+    font-size: 40px;
+    font-style: normal;
+}
+.text{
+    display:flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+body{
+    background-color: rgb(95, 95, 95);
+}
+.video{
+    text-align: center;
+}
+
+
+
+.p1{
+    color: rgb(217, 255, 0);
+    font-family: "Rubik Bubbles", system-ui;
+    font-size: 30px;
+}
+.p2{
+    color: blue;
+    font-family: "Rubik Bubbles", system-ui;
+    font-size: 30px;
+}
+.p3{
+    color: rgb(255, 0, 0);
+    font-family: "Rubik Bubbles", system-ui;
+    font-size: 30px;
+}
